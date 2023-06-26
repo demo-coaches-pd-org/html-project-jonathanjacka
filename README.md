@@ -1,4 +1,4 @@
-# HTML Project
+# Jonathan's HTML Project
 
 GOAL: Build a profile site that is all about you and to showcase all the work that you will do during your apprenticeship!
 
